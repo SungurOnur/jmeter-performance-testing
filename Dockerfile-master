@@ -1,0 +1,4 @@
+FROM onursungur/jmeter-performance-testing:latest
+MAINTAINER osungur
+		
+EXPOSE 60000
